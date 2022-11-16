@@ -7,6 +7,7 @@ const Contact = () => {
       <Head>
         <title>Contact Page</title>
         <html lang='en-US' />
+        <meta name='description' content='This is a test Contact page.' />
       </Head>
       <Link href='/'>
         <a href='/'>Home</a>

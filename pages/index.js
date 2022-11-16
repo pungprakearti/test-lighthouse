@@ -10,6 +10,7 @@ export default function Home() {
       <Head>
         <title>Lighthouse test</title>
         <html lang='en-US' />
+        <meta name='description' content='This is a test Home page.' />
       </Head>
       <Link href='/contact'>
         <a href='/contact'>Contact</a>
